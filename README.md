@@ -1,7 +1,13 @@
 
-## Validação Dockerfile
- . V1 => Api (Dockerfile)
+## Validações / testes =>  Dockerfile e docker-compose
+ . V1 => Api (Dockerfile) 
+         web (Dockerfile)
+         postgres (docker-compose.yml)  
 
+ .v2 ...
+ 
+ 
+ 
 
 ---
 
