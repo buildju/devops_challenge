@@ -1,7 +1,9 @@
 
-# Validação Dockerfile
+## Validação Dockerfile
  . V1 => Api (Dockerfile)
 
+
+---
 
 # DockerCon 2021 - Desafio DevOps
 
